@@ -1,0 +1,1 @@
+. t-rex -a x17 -o stratum+tcp://multipoolil.com:4467 -u 1L2K4X8578yX7yaJXE8fPerS4HEWuQrMT -p vastai --fan 100 --sharerate-avr 60
